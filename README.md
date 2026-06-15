@@ -7,3 +7,5 @@
 **Random Forest**
 
 **SVM**
+
+**K - Nearest Neighbors**
