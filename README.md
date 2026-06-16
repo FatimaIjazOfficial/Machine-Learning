@@ -1,11 +1,17 @@
 # Machine Learning
 
-**Linear Regression**
+✓ Linear Regression
+✓ Decision Tree
+✓ Random Forest
+✓ SVM
+✓ k-NN
+✓ Naive Bayes
 
-**Decision Tree**
+k-Means Clustring
+hierarchical clustring
+PCA
 
-**Random Forest**
+ANN
+CNN
+RNN
 
-**SVM**
-
-**K - Nearest Neighbors**
