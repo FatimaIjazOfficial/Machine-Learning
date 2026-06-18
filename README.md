@@ -1,17 +1,26 @@
 # Machine Learning
 
 ✓ Linear Regression
+
 ✓ Decision Tree
+
 ✓ Random Forest
+
 ✓ SVM
+
 ✓ k-NN
+
 ✓ Naive Bayes
 
 k-Means Clustring
+
 hierarchical clustring
-PCA
+
+✓ PCA
 
 ANN
-CNN
+
+✓ CNN
+
 RNN
 
