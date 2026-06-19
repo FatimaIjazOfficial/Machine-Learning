@@ -18,7 +18,7 @@ hierarchical clustring
 
 ✓ PCA
 
-ANN
+✓ ANN
 
 ✓ CNN
 
