@@ -12,7 +12,7 @@
 
 ✓ Naive Bayes
 
-k-Means Clustring
+✓ k-Means Clustring
 
 hierarchical clustring
 
@@ -22,5 +22,5 @@ hierarchical clustring
 
 ✓ CNN
 
-RNN
+✓ RNN
 
