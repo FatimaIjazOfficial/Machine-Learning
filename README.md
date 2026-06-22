@@ -14,7 +14,7 @@
 
 ✓ k-Means Clustring
 
-hierarchical clustring
+✓ hierarchical clustring
 
 ✓ PCA
 
