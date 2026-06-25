@@ -11,7 +11,7 @@
 ✓ k-NN
 
 ✓ Naive Bayes
-
+ vision
 ✓ k-Means Clustring
 
 ✓ hierarchical clustring
@@ -24,3 +24,4 @@
 
 ✓ RNN
 
+computer vision
