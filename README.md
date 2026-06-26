@@ -24,4 +24,4 @@
 
 ✓ RNN
 
-computer vision
+computer vision yolo and unet
