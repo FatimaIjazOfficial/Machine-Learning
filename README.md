@@ -22,6 +22,11 @@
 
 ✓ CNN
 
-✓ RNN
+yolo
+unet
 
-✓ computer vision yolo and unet
+✓ RNN
+simple rnn
+lstm
+
+
