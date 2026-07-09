@@ -28,10 +28,7 @@ unet
 ✓ RNN
 simple rnn
 lstm
-
 opencv work ...
 
-dog cat recognizer project soon...
-hope for best
 
 
