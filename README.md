@@ -25,10 +25,12 @@
 yolo
 unet
 
-✓ RNN..
+✓ RNN
 simple rnn
 lstm
+
 opencv work ...
+agent work
 
 
 
