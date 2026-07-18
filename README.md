@@ -12,6 +12,7 @@
 
 ✓ Naive Bayes
  vision
+
 ✓ k-Means Clustring
 
 ✓ hierarchical clustring
