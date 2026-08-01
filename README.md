@@ -21,17 +21,6 @@
 
 ✓ ANN
 
-✓ CNN
-
-yolo
-unet
-
-✓ RNN
-simple rnn
-lstm
-
-opencv work ...
-agent work
 
 
 
